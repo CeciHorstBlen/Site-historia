@@ -72,18 +72,26 @@ h2 {
 footer {
     background-color: #e2b74d;
     text-align: center;
-    padding: 20px;
-    margin-top: 50px;
+    padding: 10px;
+    margin-top: 20px;
 }
 
 footer .social-media {
     margin-top: 10px;
+    width: 30;
+    border-radius: 20px;
 }
 
 footer a {
-    margin: 0 10px;
+    margin: 10px;
     color: #fff;
     text-decoration: none;
+}
+
+footer .logoboneco {
+    width: 20px;
+    height: 20px;
+    margin-bottom: 15px;
 }
 
 .logoboneco {
@@ -95,4 +103,8 @@ footer a {
 h3 {
     text-align: center;
     margin: 40px 5px;
+}
+
+nav a{
+    color: black;
 }
